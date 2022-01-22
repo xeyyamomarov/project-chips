@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    padding: 10px;
+}
+.div{
+    width: 300px;
+    height: 40px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 20px;
+}
+span{
+    border: 1px solid black;
+    font-size: 27px;
+}
